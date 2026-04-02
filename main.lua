@@ -4,7 +4,7 @@ local Games = {
     [920587237] = "https://raw.githubusercontent.com/ChilliHubOfficial/library-hub/refs/heads/main/AdoptMePetspawner"
 }
 
-local MainHub = ""
+local MainHub = "https://raw.githubusercontent.com/Wonik99/library-hub/refs/heads/main/mainhub"
 
 local id = game.GameId
 
